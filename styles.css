@@ -1,4 +1,4 @@
-body {
+.body {
     background: white;
 }
 
@@ -24,4 +24,13 @@ body {
 
 .container-fluid {
     padding: 20xp;
+}
+.row1 .col{
+   background-color: blue;
+}
+.row2 .col{
+    background-color: pink;
+}
+.row3 .col{
+    background-color: purple;
 }
