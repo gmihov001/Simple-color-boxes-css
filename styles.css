@@ -25,3 +25,16 @@ body {
 .container-fluid {
     padding: 20xp;
 }
+
+.row1 .col{
+    background-color: #ffbe76;
+}
+ 
+.row2 .col {
+    background-color: #7ed6df;
+ 
+}
+ 
+.row3 .col{
+    background-color: #78e08f;
+}
